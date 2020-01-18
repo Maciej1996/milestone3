@@ -1,0 +1,4 @@
+#Thu Jan 16 23:44:49 CET 2020
+base.0=C\:\\Users\\kobylins\\Desktop\\android\\milestone3\\klawiatura_BT_do_obierania\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
